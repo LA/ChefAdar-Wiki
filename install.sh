@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Squid Installer
-# Author: https://www.serverOk.in
+# Author: https://www.serverOk.in with amendments by Adar Butel
 # Email: info@serverOk.in
 # Github: https://github.com/serverok/squid-proxy-installer
 
